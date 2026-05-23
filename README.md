@@ -126,6 +126,8 @@ Can a deep learning model extract consistent directional signal from raw OHLCV d
 | Macro F1 | 0.52 |
 | Best Threshold | 0.50 (swept per epoch) |
 
+![Model Accuracy ](Screenshot%20(1394).png)
+
 **Classification Report**
 
 | Class | Precision | Recall | F1 |
