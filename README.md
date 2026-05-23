@@ -7,6 +7,7 @@
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat&logo=python) ![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C?style=flat&logo=pytorch) ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=flat&logo=powerbi) ![Colab](https://img.shields.io/badge/Google%20Colab-T4%20GPU-F9AB00?style=flat&logo=googlecolab) ![License](https://img.shields.io/badge/License-MIT-green?style=flat)
 
 ---
+![Stock Trend Classifier Dashboard](Screenshot%20(1968).png)
 
 ## Project Overview
 
